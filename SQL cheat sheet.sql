@@ -1,4 +1,5 @@
-
+This is a SQL CheatSheet
+	
 # @ Database commands
 
 CREATE DATABASE myDB;	
