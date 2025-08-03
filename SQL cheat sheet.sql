@@ -1,4 +1,4 @@
-This is a SQL CheatSheet
+This is a SQL Commands CheatSheet 
 	
 # @ Database commands
 
