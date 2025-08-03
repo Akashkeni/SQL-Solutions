@@ -10,10 +10,10 @@ USE myDB;
 DROP DATABASE myDB;	
 # Deletes the database
 
--- ALTER DATABASE myDB READ ONLY = 1;	
+ALTER DATABASE myDB READ ONLY = 1;	
 # Makes database read only , no modifications, no deletion
 
--- ALTER DATABASE myDB READ ONLY = 0;	
+ALTER DATABASE myDB READ ONLY = 0;	
 # Makes database back into read-write mode 
 
 # @ Table commands
